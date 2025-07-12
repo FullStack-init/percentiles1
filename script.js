@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Variables de estado
     let currentMetric = 'height';
-    let currentGender = 'boy';
+    let currentGender = 'boyyy';
     let growthChart = null;
     
     // Datos del niño (inicialmente los de ejemplo)
